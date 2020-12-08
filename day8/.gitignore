@@ -1,0 +1,9 @@
+*.dyn_hi
+*.dyn_o
+*.hi
+*.o
+.sconsign.dblite
+bin
+apio_build
+verilog
+output
